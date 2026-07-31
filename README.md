@@ -14,4 +14,4 @@ Project description: An online application for NFA to DFA conversion. </br>
 * <a href="https://github.com/christinapap13">ΧΡΙΣΤΙΝΑ ΠΑΠΑΣΤΑΥΡΟΥ / CHRISTINA PAPASTAVROU</a>
 
 ## Project implementation duration
-May 2026
+May 2026 - Present
